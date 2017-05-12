@@ -1,0 +1,20 @@
+{
+  "name": "mapexplore",
+  "version": "1.0.0",
+  "description": "An application to explore maps made using map edit",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server ./src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "map",
+    "explore",
+    "tile"
+  ],
+  "author": "Rob Brander",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
